@@ -1,7 +1,5 @@
-"use client";
+import { SignIn } from '@clerk/nextjs'
 
-import { SignIn } from "@clerk/nextjs";
-
-export default function SignInPage() {
-  return <SignIn />;
+export default function Page() {
+  return <SignIn />
 }

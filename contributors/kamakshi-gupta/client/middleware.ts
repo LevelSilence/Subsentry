@@ -1,14 +1,14 @@
-import { clerkMiddleware } from "@clerk/nextjs/server";
+import { clerkMiddleware } from '@clerk/nextjs/server'
+import { NextResponse } from 'next/server'
 
-export default clerkMiddleware((auth, req) => {
-  const { protect } = auth;
-  const { pathname } = req.nextUrl;
+export default clerkMiddleware(async (auth, req) => {
+  const { userId } = await auth()
 
-  if (pathname.startsWith("/dashboard")) {
-    protect();
+  if (!userId && req.nextUrl.pathname.startsWith('/dashboard')) {
+    return NextResponse.redirect(new URL('/sign-in', req.url))
   }
-});
+})
 
 export const config = {
-  matcher: ["/((?!_next|.*\\..*).*)"],
-};
+  matcher: ['/((?!_next|.*\\..*).*)'],
+}
