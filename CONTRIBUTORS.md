@@ -122,6 +122,30 @@ This project exists because of your time, effort, and curiosity.
 - **GitHub:** https://github.com/LevelSilence
 - **About:** Sophomore @IIITA
 
-- - **Name:** Aiyaan Mahajan 
-  **GitHub:** https://github.com/Aiyaan-Mahajan
-  **About:** Word Life 🤘🏻
+- **Name:** Aiyaan Mahajan 
+- **GitHub:** https://github.com/Aiyaan-Mahajan
+- **About:** Word Life 🤘🏻
+
+- **Name:** Yash Singh
+- **GitHub:** https://github.com/yash-singh12
+- **About:**  I am a backend focused full stack developer with a strong interest in building modern, user-friendly web applications. 
+
+- **Name:** Lavay Garg
+- **GitHub:** https://github.com/lavaygarg
+- **About:** Fresher @IIITA
+
+- **Name:** Aman Sharma
+- **GitHub:** https://github.com/amansharma264
+- **About:** Third-year B.Tech student in ETE. Passionate about Backend development.
+
+- **Name:** Sanchita Anil Agte
+- **GitHub:** https://github.com/san-dae 
+- **About:** chronically online, new to WebD
+
+- **Name:** Kamakshi Gupta  
+- **GitHub:** https://github.com/kamakshi-gupta  
+- **About:** IT Sophomore at IIIT Allahabad, exploring open source and learn along the way.
+
+- **Name:** Krish Sushil Kinger
+- **GitHub:** https://github.com/KRISHH-33
+- **About:** Mera naam Krish hai aur mujhe Coffee peena bohot pasand hai.
