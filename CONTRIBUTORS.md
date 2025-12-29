@@ -166,7 +166,6 @@ This project exists because of your time, effort, and curiosity.
 - **GitHub:** https://github.com/aricthecoder
 - **About:** IT Sophomore at IIIT Allahabad
 
-- **Name:** Kunwar Gaba
-- **GitHub:** https://github.com/kunwargaba10
-- **About:** Fresher at IIITA
-
+- **Name:** Amogh S.
+- **GitHub:** https://github.com/MogaS811
+- **About:** Cricket is love and AI ML bhi bdiya lgta hai. [From IIITA]
